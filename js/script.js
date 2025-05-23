@@ -138,9 +138,9 @@ function AddToCart(id) {
 
 function check (){
 if(localStorage.getItem("UserName")){
-    window.location = "index.html"
+    window.location = "https://esraatalnagar.github.io/Products-shop/index.html"
 } else {
-    window.location = "login.html"
+    window.location = "https://esraatalnagar.github.io/Products-shop/login.html"
 }
 }
 

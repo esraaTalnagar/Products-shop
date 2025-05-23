@@ -13,7 +13,7 @@ register.addEventListener("click", function(e){
         localStorage.setItem("password", password.value)
         localStorage.setItem("email", email.value)
         setTimeout(function(){
-            window.location = "login.html"
+            window.location = "https://esraatalnagar.github.io/Products-shop/login.html"
         },1700)
     }
 })

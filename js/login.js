@@ -15,7 +15,7 @@ submit.addEventListener("click", function(e){
     }else{
         if(GetUserName === UserName.value.trim() && GetPassword === password.value.trim()){
             setTimeout(function(){
-                window.location = "index.html"
+                window.location = "https://esraatalnagar.github.io/Products-shop/index.html"
             }, 1700)
     } else{
         alert1.style.display = "none"
