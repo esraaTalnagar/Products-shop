@@ -15,37 +15,37 @@ let products = [
         id: 1 ,
         title: "product-1",
         color: "mauve",
-        imageUrl: "/images/skincare-spa-products-set-beauty-skin-hair-vector-illustrations-cosmetic-jars-tubes-bottles-cartoon-lotion-cream-cleanser-leaves-isolated-white-organic-bodycare-concept_74855-21294.jpg"
+        imageUrl: "https://esraatalnagar.github.io/Products-shop/images/skincare-spa-products-set-beauty-skin-hair-vector-illustrations-cosmetic-jars-tubes-bottles-cartoon-lotion-cream-cleanser-leaves-isolated-white-organic-bodycare-concept_74855-21294.jpg"
     },
     {
         id: 2 ,
         title: "product-2",
         color: "black",
-        imageUrl: "/images/skincare-spa-products-set-beauty-skin-hair-vector-illustrations-cosmetic-jars-tubes-bottles-cartoon-lotion-cream-cleanser-leaves-isolated-white-organic-bodycare-concept_74855-21294.jpg"
+        imageUrl: "https://esraatalnagar.github.io/Products-shop/images/skincare-spa-products-set-beauty-skin-hair-vector-illustrations-cosmetic-jars-tubes-bottles-cartoon-lotion-cream-cleanser-leaves-isolated-white-organic-bodycare-concept_74855-21294.jpg"
     },
     {
         id: 3 ,
         title: "product-3",
         color: "white",
-        imageUrl: "/images/skincare-spa-products-set-beauty-skin-hair-vector-illustrations-cosmetic-jars-tubes-bottles-cartoon-lotion-cream-cleanser-leaves-isolated-white-organic-bodycare-concept_74855-21294.jpg"
+        imageUrl: "https://esraatalnagar.github.io/Products-shop/images/skincare-spa-products-set-beauty-skin-hair-vector-illustrations-cosmetic-jars-tubes-bottles-cartoon-lotion-cream-cleanser-leaves-isolated-white-organic-bodycare-concept_74855-21294.jpg"
     },
     {
         id:4 ,
         title: "product-4",
         color: "green",
-        imageUrl: "/images/skincare-spa-products-set-beauty-skin-hair-vector-illustrations-cosmetic-jars-tubes-bottles-cartoon-lotion-cream-cleanser-leaves-isolated-white-organic-bodycare-concept_74855-21294.jpg"
+        imageUrl: "https://esraatalnagar.github.io/Products-shop/images/skincare-spa-products-set-beauty-skin-hair-vector-illustrations-cosmetic-jars-tubes-bottles-cartoon-lotion-cream-cleanser-leaves-isolated-white-organic-bodycare-concept_74855-21294.jpg"
     },
     {
         id: 5 ,
         title: "product-5",
         color: "mint green",
-        imageUrl: "/images/skincare-spa-products-set-beauty-skin-hair-vector-illustrations-cosmetic-jars-tubes-bottles-cartoon-lotion-cream-cleanser-leaves-isolated-white-organic-bodycare-concept_74855-21294.jpg"
+        imageUrl: "https://esraatalnagar.github.io/Products-shop/images/skincare-spa-products-set-beauty-skin-hair-vector-illustrations-cosmetic-jars-tubes-bottles-cartoon-lotion-cream-cleanser-leaves-isolated-white-organic-bodycare-concept_74855-21294.jpg"
     },
     {
         id: 6 ,
         title: "product-6",
         color: "blue",
-        imageUrl: "/images/skincare-spa-products-set-beauty-skin-hair-vector-illustrations-cosmetic-jars-tubes-bottles-cartoon-lotion-cream-cleanser-leaves-isolated-white-organic-bodycare-concept_74855-21294.jpg"
+        imageUrl: "https://esraatalnagar.github.io/Products-shop/images/skincare-spa-products-set-beauty-skin-hair-vector-illustrations-cosmetic-jars-tubes-bottles-cartoon-lotion-cream-cleanser-leaves-isolated-white-organic-bodycare-concept_74855-21294.jpg"
     },
     {
         id: 7 ,
@@ -57,32 +57,32 @@ let products = [
         id: 8 ,
         title: "product-8",
         color: "red",
-        imageUrl: "/images/skincare-spa-products-set-beauty-skin-hair-vector-illustrations-cosmetic-jars-tubes-bottles-cartoon-lotion-cream-cleanser-leaves-isolated-white-organic-bodycare-concept_74855-21294.jpg"
+        imageUrl: "https://esraatalnagar.github.io/Products-shop/images/skincare-spa-products-set-beauty-skin-hair-vector-illustrations-cosmetic-jars-tubes-bottles-cartoon-lotion-cream-cleanser-leaves-isolated-white-organic-bodycare-concept_74855-21294.jpg"
     },
     {
         id: 9 ,
         title: "product-9",
         color: "blue",
-        imageUrl: "/images/skincare-spa-products-set-beauty-skin-hair-vector-illustrations-cosmetic-jars-tubes-bottles-cartoon-lotion-cream-cleanser-leaves-isolated-white-organic-bodycare-concept_74855-21294.jpg"
+        imageUrl: "https://esraatalnagar.github.io/Products-shop/images/skincare-spa-products-set-beauty-skin-hair-vector-illustrations-cosmetic-jars-tubes-bottles-cartoon-lotion-cream-cleanser-leaves-isolated-white-organic-bodycare-concept_74855-21294.jpg"
     },
     {
         id: 10 ,
         title: "product-10",
         color: "black",
-        imageUrl: "/images/skincare-spa-products-set-beauty-skin-hair-vector-illustrations-cosmetic-jars-tubes-bottles-cartoon-lotion-cream-cleanser-leaves-isolated-white-organic-bodycare-concept_74855-21294.jpg"
+        imageUrl: "https://esraatalnagar.github.io/Products-shop/images/skincare-spa-products-set-beauty-skin-hair-vector-illustrations-cosmetic-jars-tubes-bottles-cartoon-lotion-cream-cleanser-leaves-isolated-white-organic-bodycare-concept_74855-21294.jpg"
     }
     ,
     {
         id: 11 ,
         title: "product-11",
         color: "baby blue",
-        imageUrl: "/images/skincare-spa-products-set-beauty-skin-hair-vector-illustrations-cosmetic-jars-tubes-bottles-cartoon-lotion-cream-cleanser-leaves-isolated-white-organic-bodycare-concept_74855-21294.jpg"
+        imageUrl: "https://esraatalnagar.github.io/Products-shop/images/skincare-spa-products-set-beauty-skin-hair-vector-illustrations-cosmetic-jars-tubes-bottles-cartoon-lotion-cream-cleanser-leaves-isolated-white-organic-bodycare-concept_74855-21294.jpg"
     },
     {
         id: 12 ,
         title: "product-12",
         color: "gray",
-        imageUrl: "/images/skincare-spa-products-set-beauty-skin-hair-vector-illustrations-cosmetic-jars-tubes-bottles-cartoon-lotion-cream-cleanser-leaves-isolated-white-organic-bodycare-concept_74855-21294.jpg"
+        imageUrl: "https://esraatalnagar.github.io/Products-shop/images/skincare-spa-products-set-beauty-skin-hair-vector-illustrations-cosmetic-jars-tubes-bottles-cartoon-lotion-cream-cleanser-leaves-isolated-white-organic-bodycare-concept_74855-21294.jpg"
     }
 ]
 
